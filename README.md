@@ -28,7 +28,7 @@ Adds new methods to acquire the following drops: Gunpowder, saddles, bones, blaz
 - Panda sneeze dropping slime probability increased from 1/700 to 1/3. Can use a brush on a panda to make it sneeze.
 - Stripping pale oak logs now drops resin.
 
-## Compatibility
+### Compatibility
 
 - Roughly Enough Items
 - JaizMod
