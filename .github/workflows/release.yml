@@ -61,10 +61,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Set up JDK 21
+      - name: Set up JDK
         uses: actions/setup-java@v4
         with:
-          java-version: 21
+          java-version: ${{ needs.pre_job.outputs.java_version }}
           distribution: 'microsoft'
           cache: gradle
       - name: Loom Cache
