@@ -27,6 +27,9 @@ Adds new methods to acquire the following drops: Gunpowder, saddles, bones, blaz
 - New villager trades: Cleric sells spider eyes. Farmers buy flax, leatherworkers buy bat wings. Wandering traders sell mob heads and trial keys.
 - Panda sneeze dropping slime probability increased from 1/700 to 1/3. Can use a brush on a panda to make it sneeze.
 - Stripping pale oak logs now drops resin.
+- Mod heads can be found in dungeon and effigy altar dungeon chests
+- Added prismarine and tridents to ocean ruin lootpool. Added cartographer villager trade to help find them.
+- Ender dragon now despawns in peaceful. Use gamerule `enableEnderDragonFightPeaceful`  to bring her back.
 
 ### Compatibility
 
