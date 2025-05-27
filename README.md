@@ -6,7 +6,13 @@ Makes blocks/item/dimensions available in peaceful difficulty that require mob d
 
 Adds new methods to acquire the following drops: Gunpowder, saddles, bones, blaze rods, breeze rods, ender pearls, froglights, slime balls, resin, phantom membranes, ghast tears, string, spider eyes, mob heads, prismarine shards, prismarine crystals, tide armor trim smithing template, nether stars, tridents, nautilus shells, wither roses, rotten flesh, trial keys, dragon egg/breath, and ominous bottles.
 
+## Developers
+
+- **xen_42** – Lead developer. Started the mod, designed and implemented all core features, and created all original assets and artwork.
+- **MegaPiggy** – Co-developer. Joined later, named the mod, made hardcoded systems data-driven, backported all the way to 1.20.1, and helped with the 1.1.0 update.
+
 ## Features:
+
 - Bats can be lured and bred with watermelon. They drop bat wings on death, and randomly drop guano.
 - Sniffers have a vastly increased loot pool, and can dig up new/existing items from soul sand/soil, sand, and gravel.
 - New mob: Enderclams. Spawn in the warped forest and End. Drops ender pearls and clam meat.
@@ -61,7 +67,6 @@ https://github.com/2xsaiko/mixin-cheatsheet/tree/master
 
 ### Thank you
 
-- MegaPiggy for naming the mod and contributing some nice additions, fixes, and the GitHub action
 - Ansurfen for the Chinese (Simplified) translation
 - Kaupenjoe and Diamondxr for the Youtube tutorials
 - Everyone who works on Fabric and all the modding framework stuff that's a bunch of work man very cool
